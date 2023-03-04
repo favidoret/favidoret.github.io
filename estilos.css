@@ -1,0 +1,88 @@
+html {
+    height:100%;
+}
+body {
+    height:100%;
+    color:rgba(0, 0, 0, 0.877);
+    font-family:Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    margin: 5%;
+}
+header{
+    background: linear-gradient(rgba(0, 0, 0, 0.116), rgba(0, 0, 0, 0.664));
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+button{
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Arial;
+    font-weight: bold;
+    background: linear-gradient(rgba(255, 255, 255, 0.76),rgba(126, 126, 126, 0.452));
+}
+h1 {
+    color: rgba(0, 0, 0, 0.795);
+    text-align: center;
+    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    font-size: 30px;
+
+}
+h2 {
+    color: rgb(138, 132, 132);
+    text-align: left;
+    font-family: arial;
+    font-size: 20px
+}
+h3 {
+    color: rgb(167, 162, 162);
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px}
+p {
+    text-align: justify;
+    font-family: verdana;
+    font-size: 12px;
+    padding-left: 40px;
+    margin: 5px;
+}
+ol{
+    list-style: disc;
+} 
+section{
+    text-decoration-color: rgb(0, 0, 0);
+    text-align: justify;
+    font-family: verdana;
+    font-size: 12px;
+    margin: 5px;
+}
+#ocupact {
+    padding-left: 40px;
+    margin: 5px;
+}
+.ImagenMenu {
+    width: 10px;
+    height: 10px;
+    padding-right: 5px;
+}
+#fotoperfil {
+    width: 200px;
+    height: 200px;
+}
+#sobremi {
+    display: "";
+}
+#contacto {
+    display: none;
+}
+#ocupaciones {
+    display: none;
+}
+#estudios {
+    display: none;
+}
+#public {
+    display: none;
+}
